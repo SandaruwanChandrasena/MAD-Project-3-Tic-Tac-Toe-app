@@ -47,3 +47,5 @@ The **Tic Tac Toe App** modernises the classic 3x3 grid game by integrating offl
 
 This project combines the nostalgic charm of Tic Tac Toe with modern features, emphasizing both technical learning and user engagement.  
 
+![image alert](https://github.com/SandaruwanChandrasena/MAD-Project-3-Tic-Tac-Toe-app/blob/a936dbbcb3d9b66d2d1d0b680ca154302809247b/S1.png)
+![image alert](https://github.com/SandaruwanChandrasena/MAD-Project-3-Tic-Tac-Toe-app/blob/a936dbbcb3d9b66d2d1d0b680ca154302809247b/S2.png)
